@@ -1,0 +1,22 @@
+# Created 2023-05-12 Fri 10:39
+#+title: [2023-05-12 Fri]: ET-NL-UU LOC
+#+author: Marc van der Sluys
+- 23 registrations: https://indico.nikhef.nl/event/4405/
+- [-] Programme [2/6]
+  1. [X] 12:00-13:00: lunch and coffee/tea
+  2. [ ] 13:00-13:30: intro?  Chris?
+  3. [ ] 13:30-14:30: talks/discussions/tutorials (DA/other)
+  4. [X] 14:30-15:00: coffee break (longer?)
+     - group photo
+  5. [ ] 15:00-16:00: talks/discussions/tutorials (DA/other)
+  6. [ ] 16:00-17:00: talks/discussions/tutorials (DA/other)
+- Tools
+  1. [ ] Laptop?
+  2. [ ] 55" (1.4m) smart tv or projector and screen?
+  3. [ ] Pointer
+  4. [ ] Owl
+  5. [ ] Microphone?
+  6. [ ] Name tags
+  7. [ ] Whisle(s)?
+  8. [ ] +Power cables?+
+- [ ] Group photo!
